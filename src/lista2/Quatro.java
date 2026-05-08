@@ -1,3 +1,4 @@
+package lista2;
 import java.util.Scanner;
 
 public class Quatro {
@@ -14,7 +15,7 @@ public class Quatro {
         System.out.println("Digite o tempo: ");
         t = scan.nextInt();
 
-        v = s / t; b
+        v = s / t;
         
         System.out.println("A velocidade média é de " + v);
     }

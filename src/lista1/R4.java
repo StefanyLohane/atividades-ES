@@ -1,3 +1,5 @@
+package lista1;
+
 public class R4 {
     public static void main(String[] args) {
         int somaI = 0;
