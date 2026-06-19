@@ -1,3 +1,4 @@
+package lista3;
 public class Conta {
     private String nome;
     private double valor;
