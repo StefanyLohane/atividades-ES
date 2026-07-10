@@ -11,6 +11,9 @@ public class RegraNegocioEmpresa {
 
     public Empresa[] listarEmpresa(){
         return listaEmpresas;
+
+
     }
+    
     
 }
